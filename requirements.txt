@@ -1,0 +1,7 @@
+These are the Python libraries used in this project:
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
